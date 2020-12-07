@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### Other place You can find me 
 
 [see my Linkedin account] (http://linkedin.com/in/rana-sagar-a76596135/)
+
+###
 [see my youtube channel] (https://www.youtube.com/watch?v=zBQfOLQCx-c)
 
 
