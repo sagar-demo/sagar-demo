@@ -6,14 +6,16 @@
 
 Here are some ideas to get you started:
 
+💼 I’m currently pursuing my Bachelor's degree in Information Technology ;
 - 🔭 I’m currently working on various project on Data science
 - 🌱 I’m currently learning Data science
 - 👯 I'm Always looking for challenging work oppurtunities ahead..
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏etc..;
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 ### Other place You can find me 
