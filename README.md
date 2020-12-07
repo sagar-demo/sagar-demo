@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 I Strongly belive we the Professional of tech industry need to lean and innovate.There is constant change in the technologies in market we need to update ourselves with.
 The only thing is that constant is change...I would call myself Data Scientist.Currently i am playing with Data .Its the place where i stay focused..I love trying new technologies and update with modern tools helping our Lives more easier.
 ####
-<img src"https://github-readme-stats.vercel.app/api?username=sagar-demo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=sagar-demo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
